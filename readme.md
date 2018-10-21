@@ -20,5 +20,6 @@
 
 ### Questions
 
--- Untuk frontend mendingan belajar mana sih antara React, Vue, Angular apa Vanilla saja?
+##### Untuk frontend mendingan belajar mana sih antara React, Vue, Angular apa Vanilla saja?
+
 Kalo menurut saya vanilla dulu, baru Vue.JS. Supaya mengetahui _basic_ nya dulu, baru ke _modern framework_. Kenapa Vue.js, karena menurut saya paling rendah _learning curve_ nya di banding React misalnya, harus belajar JSX dulu misalkan
