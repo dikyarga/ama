@@ -2,14 +2,6 @@
 
 ## [Ask a question](../../issues/new) &nbsp;&nbsp;&nbsp; [Read questions](../../issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20sort%3Aupdated-desc%20-label%3Ahidden)
 
-I get a lot of questions by email. This way anyone can read the answer!
-
-Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
-
----
-
-<div align="center">Huge thanks to &nbsp;<a href="https://www.miles.in"><img src="https://user-images.githubusercontent.com/170270/34912034-3332ae4c-f8d6-11e7-8569-65b11486d003.png" width="80"></a>&nbsp; for sponsoring my open source work on <a href="https://www.patreon.com/sindresorhus">Patreon</a>.</div>
-
 ---
 
 ### Guidelines
@@ -28,4 +20,5 @@ Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever
 
 ### Questions
 
-- Untuk frontend mendingan belajar mana sih antara React, Vue, Angular apa Vanilla saja?
+-- Untuk frontend mendingan belajar mana sih antara React, Vue, Angular apa Vanilla saja?
+Kalo menurut saya vanilla dulu, baru Vue.JS. Supaya mengetahui _basic_ nya dulu, baru ke _modern framework_. Kenapa Vue.js, karena menurut saya paling rendah _learning curve_ nya di banding React misalnya, harus belajar JSX dulu misalkan
